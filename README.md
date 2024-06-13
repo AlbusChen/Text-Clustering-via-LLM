@@ -1,6 +1,6 @@
-# Text Clustering via Large Language Models (LLM)
+# Text Clustering is one of the Classifications via LLM
 
-This repository contains the implementation code for the paper "Text Clustering via Large Language Models (LLM)".
+This repository contains the implementation code for the paper "Text Clustering is one of the Classifications via LLM".
 
 ## Initial Setup
 
