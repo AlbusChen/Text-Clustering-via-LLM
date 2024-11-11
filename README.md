@@ -1,6 +1,6 @@
 # Text Clustering is one of the Classifications via LLM
 
-This repository contains the implementation code for the paper "Text Clustering is one of the Classifications via LLM".
+This repository contains the implementation code for the paper "[Text Clustering is one of the Classifications via LLM](https://arxiv.org/abs/2410.00927)".
 
 ## Initial Setup
 
