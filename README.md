@@ -2,6 +2,8 @@
 
 This repository contains the implementation code for the paper "[Text Clustering as Classification with LLMs](https://arxiv.org/abs/2410.00927)".
 
+You can refer the latest repository "[here](https://github.com/ECNU-Text-Computing/Text-Clustering-via-LLM)".
+
 ## Initial Setup
 
 To run the code, you need to set the `--api_key` parameter to your own OpenAI Key. Please note that OpenAI may have updated their API since the last time this code was run.
