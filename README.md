@@ -2,7 +2,7 @@
 
 This repository contains the implementation code for the paper "[Text Clustering as Classification with LLMs](https://arxiv.org/abs/2410.00927)".
 
-You can refer the latest repository "[here](https://github.com/ECNU-Text-Computing/Text-Clustering-via-LLM)".
+You can refer to the latest repository [here](https://github.com/ECNU-Text-Computing/Text-Clustering-via-LLM).
 
 ## Initial Setup
 
